@@ -9,3 +9,4 @@ Existe uma pasta para cada treinamento, e uma para o projeto final. Por favor n√
 Abra√ßo,
 
 Luan
+ oi
